@@ -40,4 +40,6 @@ sql-project/
 
 ## 👤 Author
 Yash Ghormade
- 
+
+ Enhanced README with SQL analysis details
+
